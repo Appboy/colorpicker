@@ -1,7 +1,7 @@
 {
   "name": "colorpicker",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "js/colorpicker.js",
   "repository": "git@github.com:Appboy/colorpicker.git",
   "author": "Hal Anil <haldun.anil@braze.com>",
   "license": "None"
