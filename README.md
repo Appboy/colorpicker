@@ -1,5 +1,5 @@
 # colorpicker
 
-Internal hosting of the `colorpicker` library, as NPM does not have a the version we use and we have made modifications to the source code.
+Internal hosting of the `colorpicker` library, as NPM does not have the version used by the Braze platform and modifications have been made to the original source code.
 
-This should be removed when colorpicker is no longer used in platform
+This library is deprecated and should be removed when colorpicker is no longer used in the Braze platform.
